@@ -14,3 +14,5 @@ In order for Redsn0w Inspired to work properly, please put it in applications. (
 
 
 I plan to add more eventually but don't have much time with school in the way. Updates will hopefully come every weekend. Whether their small or an important one.
+
+I will make it open source soon however, i'm using this as a learning experience. If you have a suggestion or found a bug, please contact me via Twitter. @LamotheColby
