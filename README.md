@@ -13,4 +13,4 @@ Redsn0w Inspired is a Gui for checkm8 that gives you a bit of a nastalgic feelin
 In order for Redsn0w Inspired to work properly, please put it in applications. (I cd into "applications" to get into iPwndfu's folder)
 
 
-I plan to add more eventually but don't have much time with school in the way. Updates will hopefully come every weekend. Whether there small or an important one.
+I plan to add more eventually but don't have much time with school in the way. Updates will hopefully come every weekend. Whether their small or an important one.
