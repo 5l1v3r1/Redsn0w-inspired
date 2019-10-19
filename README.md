@@ -1,6 +1,4 @@
 # Redsn0w-inspired
-Redsn0w inspired GUI for Checkm8
-
 Redsn0w Inspired is a Gui for checkm8 that gives you a bit of a nastalgic feeling.
 
 # What it can do
