@@ -1,5 +1,5 @@
 # Redsn0w-inspired
-Redsn0w Inspired is a Gui for checkm8 that gives you a bit of a nastalgic feeling.
+Redsn0w Inspired is a Gui for checkm8 that gives you a bit of a nastalgic feeling. Put MacOS in light mode.
 
 # What it can do
  1. Standard Demote, dump securerom and enter Pwndfu mode.
