@@ -19,3 +19,7 @@ I will make it open source soon however, i'm using this as a learning experience
 You need homebrew for downgrading to work. Simply type this in terminal to install, type in password when asked.
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# Downgrade
+You also need a iOS 10.3.3 ipsw. You can download one from ipsw.me
+Put it on your desktop!
