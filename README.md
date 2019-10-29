@@ -20,6 +20,9 @@ You need homebrew for downgrading to work. Simply type this in terminal to insta
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+Uninstall by typing in,
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
+
 # Downgrade
 You also need a iOS 10.3.3 ipsw. You can download one from ipsw.me
 Put it on your desktop!
